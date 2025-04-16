@@ -1,1 +1,1 @@
-write(0)
+document.write(0)
